@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c02cc72-4368-4add-a6f2-b9684d4f7900" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/LimiterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/enums/RuleCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/enums/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/exceptions/ConflictException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/exceptions/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/ClientRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/Response/ResponseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/Rule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/request/ClientRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/model/request/RuleRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/repository/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/repository/ClientRuleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/repository/RuleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/service/ClientRuleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/service/ClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/service/RuleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/service/impl/ClientRuleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/service/impl/ClientServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/service/impl/RuleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/uz/utility/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/aplication.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ClientServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RuleServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c02cc72-4368-4add-a6f2-b9684d4f7900" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

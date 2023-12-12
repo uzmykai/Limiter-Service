@@ -9,7 +9,7 @@ import org.uz.enums.Status;
 @EqualsAndHashCode(callSuper = true)
 @Data
 @Entity
-public class ClientRole extends BaseModel{
+public class ClientRule extends BaseModel{
     @Column
     private int clientId;
     @Column
